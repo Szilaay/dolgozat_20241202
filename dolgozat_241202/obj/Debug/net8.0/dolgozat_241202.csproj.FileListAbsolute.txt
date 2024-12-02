@@ -1,0 +1,14 @@
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\bin\Debug\net8.0\dolgozat_241202.exe
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\bin\Debug\net8.0\dolgozat_241202.deps.json
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\bin\Debug\net8.0\dolgozat_241202.runtimeconfig.json
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\bin\Debug\net8.0\dolgozat_241202.dll
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\bin\Debug\net8.0\dolgozat_241202.pdb
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\dolgozat_241202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\dolgozat_241202.AssemblyInfoInputs.cache
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\dolgozat_241202.AssemblyInfo.cs
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\dolgozat_241202.csproj.CoreCompileInputs.cache
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\dolgozat_241202.dll
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\refint\dolgozat_241202.dll
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\dolgozat_241202.pdb
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\dolgozat_241202.genruntimeconfig.cache
+C:\Users\szucs.szilard\source\repos\dolgozat_241202\dolgozat_241202\obj\Debug\net8.0\ref\dolgozat_241202.dll
